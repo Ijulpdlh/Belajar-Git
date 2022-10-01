@@ -1,0 +1,5 @@
+Langkah Langkah pembelajaran Git:
+- Belajar tentang teori Git
+- Belajar Membuat akun Git
+- Belajar Upload Project ke Github
+- Belajar Upload Project menggunakan VSC
