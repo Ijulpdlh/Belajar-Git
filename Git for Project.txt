@@ -1,0 +1,7 @@
+Belajar Git untuk
+- Html
+- CSS
+- JavaScript
+Frimework
+- Bootstrap
+- Laravel
