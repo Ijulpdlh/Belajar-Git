@@ -3,3 +3,4 @@ Langkah Langkah pembelajaran Git:
 - Belajar Membuat akun Git
 - Belajar Upload Project ke Github
 - Belajar Upload Project menggunakan VSC
+- Menggunakan Git untuk berkolaborasi dengan orang lain ketika bekerja
